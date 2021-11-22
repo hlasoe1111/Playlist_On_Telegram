@@ -1,6 +1,6 @@
 <h2 align="centre">🎵 VEEZ MUSIC BOT</h2>
 
-### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### Playlist_on_telegram is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/8bf3d62837cb59c3f8e7f.png" width="300"></a></p>
 <p align="center">
@@ -26,8 +26,7 @@
 
 TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
 
-🎖 History
-- [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
+
 
 ## Features 🔮
 
@@ -127,5 +126,3 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 - [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
-### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
